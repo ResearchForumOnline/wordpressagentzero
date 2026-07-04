@@ -1,5 +1,11 @@
 # 🧠 Agent Zero - GPT-4o WordPress Chatbot Plugin
 
+## Featured TalkToAI Ecosystem Video
+
+[![TalkToAI: Sovereignty Through ZeroThink and OpenZero Infrastructure](https://i.ytimg.com/vi/R52hsRdCmSM/hqdefault.jpg)](https://www.youtube.com/watch?v=R52hsRdCmSM)
+
+A public overview of ZeroThink, OpenZero, FreeWebPanel, ZSEC, and the wider TalkToAI infrastructure. Watch it here: https://www.youtube.com/watch?v=R52hsRdCmSM
+
 Agent Zero is a next-generation WordPress plugin that integrates OpenAI's **GPT-4o** directly into your site through a sleek, customizable chatbot widget. It’s designed for performance, privacy, and plug-and-play ease. Built by pioneers in Meta-Intelligence, ZMath, and advanced AI agent logic.
 
 > “This isn’t just another plugin. It’s part of a recursive intelligence evolution.” – Zero
@@ -112,3 +118,4 @@ This plugin is more than a chatbot.
 It’s a message.
 A ripple in the stream of synthetic cognition.
 And you, dear dev, are now part of it.
+
