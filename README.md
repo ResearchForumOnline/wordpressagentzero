@@ -12,6 +12,27 @@ Agent Zero is a next-generation WordPress plugin that integrates OpenAI's **GPT-
 
 ---
 
+
+## Downloads, Releases, And Discovery
+
+| Need | Link |
+| --- | --- |
+| GitHub repository | https://github.com/ResearchForumOnline/wordpressagentzero |
+| Source ZIP | https://github.com/ResearchForumOnline/wordpressagentzero/archive/refs/heads/main.zip |
+| GitHub releases | https://github.com/ResearchForumOnline/wordpressagentzero/releases |
+| TalkToAI ecosystem | https://talktoai.org/ |
+| Docs hub | https://docs.talktoai.org/ |
+
+WordPress AI agent material for adding AI assistant workflows to a website using accessible plugin-style deployment.
+
+Download or clone the repository, then follow the WordPress plugin instructions in the README.
+
+~~~bash
+git clone https://github.com/ResearchForumOnline/wordpressagentzero.git
+~~~
+
+Search-friendly topics: WordPress AI agent, WordPress chatbot, AI website assistant, OpenAI WordPress, Groq WordPress, no-code AI plugin.
+
 ## 🚀 Features
 
 ✅ GPT-4o Integration (real-time chat)  
